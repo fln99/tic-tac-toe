@@ -13,9 +13,13 @@ const gameSource = {
         let content = '';
 
         for(position in this.board) {
-            content += `<div>${this.board[position]}</div>`;
+            content += `<div onclick="markPosition(${position})"></div>`;
         }
 
         containerID.innerHTML = content;
-    }
+    },
 }
+
+function markPosition(item) {
+    console.log(gameSource.board[item] = gameSource.player.options[gameSource.player.options.options_index]);
+};

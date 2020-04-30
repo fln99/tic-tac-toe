@@ -11,3 +11,8 @@ Technology | Level
 CSS | 4
 Javascript | 4
 HTML | 4
+
+---
+
+### Status (to finish):
+* 0 of 10

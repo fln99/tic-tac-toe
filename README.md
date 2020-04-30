@@ -11,5 +11,3 @@ Technology | Level
 CSS | 4
 Javascript | 4
 HTML | 4
---- | ---
-_(These levels will be updated in the future)_
